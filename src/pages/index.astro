@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+).slice(0, 3);
+---
+
+<BaseLayout title="Home">
+	<section>
+		<h2>About Me</h2>
+		<p>こんにちは、sskyuです。Web開発者としての活動を記録しています。</p>
+	</section>
+
+	<section>
+		<h2>Latest Blog Posts</h2>
+		<ul>
+			{posts.map((post) => (
+				<li>
+					<a href={`/blog/${post.slug}`}>{post.data.title}</a>
+					<span>({post.data.pubDate.toLocaleDateString()})</span>
+				</li>
+			))}
+		</ul>
+		<a href="/blog">All Posts &rarr;</a>
+	</section>
+</BaseLayout>

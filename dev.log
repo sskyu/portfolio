@@ -1,0 +1,63 @@
+npm warn Unknown user config "always-auth" (//mercari.jfrog.io/mercari/api/npm/npm-universal/:always-auth). This will stop working in the next major version of npm.
+16:19:09 [types] Generated 1ms
+16:19:09 [content] Syncing content
+16:19:09 [content] Synced content
+16:19:09 [vite] Re-optimizing dependencies because vite config has changed
+
+ astro  v5.16.6 ready in 474 ms
+
+┃ Local    http://localhost:4322/
+┃ Network  use --host to expose
+
+16:19:10 watching for file changes...
+16:20:02 [200] / 26ms
+16:21:22 [content] Syncing content
+16:21:22 [WARN] [glob-loader] No files found matching "**/*.md,!**/_*/**/*.md,!**/_*.md" in directory "src/content/projects"
+16:21:22 [content] Synced content
+16:21:23 [200] / 26ms
+The collection "projects" does not exist or is empty. Please check your content config file for errors.
+16:21:30 [200] / 14ms
+16:21:51 Configuration file updated. Restarting...
+16:21:52 [vite] Re-optimizing dependencies because vite config has changed
+16:21:53 [content] Syncing content
+16:21:53 [content] Synced content
+16:21:53 [types] Generated 1.19s
+16:21:53 [vite] Re-optimizing dependencies because lockfile has changed
+16:22:11 [200] / 41ms
+16:22:18 [200] / 8ms
+16:23:02 [watch] /src/styles/global.css
+16:23:03 [200] / 15ms
+16:23:19 [200] / 9ms
+16:23:56 [200] / 10ms
+16:24:00 [200] / 12ms
+16:24:11 [200] / 11ms
+16:24:41 [200] /blog/2025-01-portfolio-release 8ms
+16:25:02 [200] /projects/project-a 7ms
+16:25:11 [200] /projects 4ms
+16:25:25 [200] /blog 6ms
+16:25:38 [200] /blog 9ms
+16:25:39 [200] /projects 10ms
+16:25:50 [200] / 11ms
+16:27:04 [200] / 42ms
+16:27:09 [content] Syncing content
+16:27:09 [content] Content config changed
+16:27:09 [content] Clearing content store
+16:27:09 [content] Synced content
+The collection "projects" does not exist or is empty. Please check your content config file for errors.
+16:27:10 [200] / 24ms
+The collection "projects" does not exist or is empty. Please check your content config file for errors.
+16:27:16 [200] / 4ms
+16:27:22 [200] / 4ms
+16:27:28 [200] / 8ms
+16:27:35 [200] /blog/2025-01-portfolio-release 7ms
+16:28:09 [200] / 5ms
+16:28:36 [200] / 8ms
+16:28:38 [200] / 13ms
+16:29:16 [200] / 4ms
+16:29:47 [200] / 4ms
+16:30:29 [watch] /src/styles/global.css
+16:30:29 [200] / 9ms
+16:31:39 [watch] /src/styles/global.css
+16:31:40 [200] / 8ms
+16:32:49 [watch] /src/styles/global.css
+16:32:49 [200] / 8ms
