@@ -61,3 +61,21 @@ The collection "projects" does not exist or is empty. Please check your content 
 16:31:40 [200] / 8ms
 16:32:49 [watch] /src/styles/global.css
 16:32:49 [200] / 8ms
+16:50:39 [200] / 6ms
+22:31:01 [200] / 184ms
+16:35:28 [200] / 343ms
+16:46:13 [200] / 4ms
+16:52:07 [200] / 32ms
+17:01:38 [200] / 18ms
+17:10:14 [200] / 272ms
+17:43:44 [200] / 5ms
+18:00:04 [200] / 36ms
+18:10:34 [200] / 8ms
+19:21:43 Configuration file updated. Restarting...
+19:21:43 [vite] Re-optimizing dependencies because vite config has changed
+19:21:45 [content] Syncing content
+19:21:45 [content] Astro config changed
+19:21:45 [content] Clearing content store
+19:21:45 [content] Synced content
+19:21:45 [types] Generated 1.30s
+19:21:45 [vite] Re-optimizing dependencies because vite config has changed
