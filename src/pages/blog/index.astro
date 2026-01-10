@@ -7,7 +7,7 @@ const posts = (await getCollection('blog')).sort(
 );
 ---
 
-<BaseLayout title="Blog">
+<BaseLayout title="Blog | sskyu" description="sskyuの技術ブログ一覧。Web開発、プログラミング、個人開発に関する記事をまとめています。">
 	<h1>Blog</h1>
 	<ul>
 		{posts.map((post) => (
