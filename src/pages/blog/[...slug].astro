@@ -16,7 +16,7 @@ const { Content } = await entry.render();
 <BaseLayout title={entry.data.title} description={entry.data.description}>
 	<article>
 		<h1>{entry.data.title}</h1>
-		<p>Published on: {entry.data.pubDate.toLocaleDateString()}</p>
+		<p>Published on: {entry.data.pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' })}</p>
 		<hr />
 		<Content />
 	</article>

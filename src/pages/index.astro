@@ -19,7 +19,7 @@ const posts = (await getCollection('blog')).sort(
 			{posts.map((post) => (
 				<li>
 					<a href={`/blog/${post.slug}`}>{post.data.title}</a>
-					<span>({post.data.pubDate.toLocaleDateString()})</span>
+					<span>({post.data.pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' })})</span>
 				</li>
 			))}
 		</ul>
