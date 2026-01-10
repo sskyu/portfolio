@@ -86,3 +86,10 @@ The collection "projects" does not exist or is empty. Please check your content 
 21:32:12 [200] /blog/2025-01-portfolio-release 8ms
 21:33:51 [200] / 13ms
 21:36:39 [200] / 6ms
+21:41:30 [200] / 35ms
+22:24:08 [watch] /src/styles/global.css
+22:24:08 [200] / 11ms
+22:24:23 [200] / 9ms
+22:24:25 [200] /blog 8ms
+22:24:30 [200] / 13ms
+22:30:29 [200] / 5ms
