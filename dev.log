@@ -131,3 +131,5 @@ The collection "projects" does not exist or is empty. Please check your content 
 11:35:11 [WARN] [glob-loader] Duplicate id "2025-01-portfolio-release" found in /Users/sskyu/Dev/portfolio/src/content/blog/2025-01-portfolio-release.md. Later items with the same id will overwrite earlier ones.
 11:35:11 [glob-loader] Reloaded data from 2025-01-portfolio-release.md
 11:35:12 [200] /blog/2025-01-portfolio-release 22ms
+11:37:15 [200] / 9ms
+11:37:18 [200] / 41ms

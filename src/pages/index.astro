@@ -16,16 +16,6 @@ const posts = (await getCollection('blog')).sort(
 	</section>
 
 	<section>
-		<h2>Tech Stack</h2>
-		<ul>
-			<li>Astro</li>
-			<li>TypeScript</li>
-			<li>CSS (Vanilla)</li>
-			<li>GitHub Pages</li>
-		</ul>
-	</section>
-
-	<section>
 		<h2>Latest Blog Posts</h2>
 		<ul>
 			{posts.map((post) => (
