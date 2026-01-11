@@ -8,9 +8,7 @@ pubDate: 2025-01-01
 
 このサイトでは、自分の制作物やブログ記事を発信していく予定です。
 
-Gemini3が95%作成しました。便利な時代。
-
-## Tech Stack
+## このサイトの Tech Stack
 
 * Framework: Astro 5.16
 * Language: TypeScript
@@ -20,3 +18,4 @@ Gemini3が95%作成しました。便利な時代。
 * Hosting: GitHub Pages
 * Features: Dark Mode (Manual implementation), RSS Feed
 
+ソースは[こちら](https://github.com/sskyu/portfolio)から見れます。
