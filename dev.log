@@ -133,3 +133,5 @@ The collection "projects" does not exist or is empty. Please check your content 
 11:35:12 [200] /blog/2025-01-portfolio-release 22ms
 11:37:15 [200] / 9ms
 11:37:18 [200] / 41ms
+11:50:10 [watch] /src/layouts/BaseLayout.astro?astro&type=style&index=0&lang.css
+11:50:11 [200] / 5ms
