@@ -1,6 +1,8 @@
 ---
 import '../styles/global.css';
 import ThemeToggle from '../components/ThemeToggle.astro';
+import { Image } from 'astro:assets';
+import avatarImage from '../assets/avatar.png';
 
 interface Props {
 	title: string;
@@ -42,7 +44,7 @@ const { title, description = "My Portfolio Site" } = Astro.props;
 		<header>
 			<h1>
 				<a href="/" class="site-title">
-					<img src="https://github.com/sskyu.png" alt="sskyu" width="32" height="32" />
+					<Image src={avatarImage} alt="sskyu" width={32} height={32} />
 					sskyu
 				</a>
 			</h1>

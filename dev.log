@@ -194,3 +194,5 @@ The collection "projects" does not exist or is empty. Please check your content 
 22:40:30 [content] Synced content
 22:40:30 [types] Generated 2.95s
 22:40:30 [vite] Re-optimizing dependencies because vite config has changed
+22:50:40 [200] / 23ms
+22:50:42 [200] /_image 1578ms
