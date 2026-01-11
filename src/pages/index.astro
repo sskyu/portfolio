@@ -16,14 +16,23 @@ const posts = (await getCollection('blog')).sort(
 	</section>
 
 	<section>
+		<h2>Tech Stack</h2>
+		<ul>
+			<li>Astro</li>
+			<li>TypeScript</li>
+			<li>CSS (Vanilla)</li>
+			<li>GitHub Pages</li>
+		</ul>
+	</section>
+
+	<section>
 		<h2>Latest Blog Posts</h2>
 		<ul>
 			{posts.map((post) => (
-				<li>
-					<a href={`/blog/${post.slug}`}>{post.data.title}</a>
-					<span>({post.data.pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' })})</span>
-				</li>
-			))}
+				                <li>
+				                    <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+				                    <span class="publish-date">({post.data.pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' })})</span>
+				                </li>			))}
 		</ul>
 		<a href="/blog">All Posts &rarr;</a>
 	</section>

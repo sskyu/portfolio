@@ -4,6 +4,19 @@ description: "Astroを使って新しいポートフォリオサイトを作成�
 pubDate: 2025-01-01
 ---
 
-新しいポートフォリオサイトを公開しました！
+新しいポートフォリオサイトを公開しました。
+
 このサイトでは、自分の制作物やブログ記事を発信していく予定です。
-AstroのContent Collections機能を使っているので、Markdownでの管理がとてもスムーズです。
+
+Gemini3が95%作成しました。便利な時代。
+
+## Tech Stack
+
+* Framework: Astro 5.16
+* Language: TypeScript
+* Styling: Native CSS (Variables, Flexbox)
+* Content: Astro Content Collections (Markdown)
+* CI/CD: GitHub Actions
+* Hosting: GitHub Pages
+* Features: Dark Mode (Manual implementation), RSS Feed
+

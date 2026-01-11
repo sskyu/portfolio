@@ -108,3 +108,26 @@ The collection "projects" does not exist or is empty. Please check your content 
 11:22:29 [200] / 7ms
 11:22:30 [200] / 6ms
 11:23:44 [200] / 12ms
+11:24:26 [200] /blog/2025-01-portfolio-release 12ms
+11:29:22 [WARN] [glob-loader] Duplicate id "2025-01-portfolio-release" found in /Users/sskyu/Dev/portfolio/src/content/blog/2025-01-portfolio-release.md. Later items with the same id will overwrite earlier ones.
+11:29:22 [glob-loader] Reloaded data from 2025-01-portfolio-release.md
+11:29:23 [200] /blog/2025-01-portfolio-release 13ms
+11:29:50 [WARN] [glob-loader] Duplicate id "2025-01-portfolio-release" found in /Users/sskyu/Dev/portfolio/src/content/blog/2025-01-portfolio-release.md. Later items with the same id will overwrite earlier ones.
+11:29:50 [glob-loader] Reloaded data from 2025-01-portfolio-release.md
+11:29:51 [200] /blog/2025-01-portfolio-release 6ms
+11:30:01 [200] /blog/2025-01-portfolio-release 13ms
+11:31:11 [watch] /src/styles/global.css
+11:31:11 [200] /blog/2025-01-portfolio-release 12ms
+11:31:16 [200] /blog/2025-01-portfolio-release 6ms
+11:31:33 [200] /blog/2025-01-portfolio-release 3ms
+11:32:25 [watch] /src/styles/global.css
+11:32:26 [200] /blog/2025-01-portfolio-release 5ms
+11:32:29 [200] /blog/2025-01-portfolio-release 17ms
+11:32:42 [200] /blog/2025-01-portfolio-release 9ms
+11:32:51 [200] /blog/2025-01-portfolio-release 10ms
+11:33:17 [watch] /src/styles/global.css
+11:33:18 [200] /blog/2025-01-portfolio-release 5ms
+11:33:37 [200] /blog/2025-01-portfolio-release 7ms
+11:35:11 [WARN] [glob-loader] Duplicate id "2025-01-portfolio-release" found in /Users/sskyu/Dev/portfolio/src/content/blog/2025-01-portfolio-release.md. Later items with the same id will overwrite earlier ones.
+11:35:11 [glob-loader] Reloaded data from 2025-01-portfolio-release.md
+11:35:12 [200] /blog/2025-01-portfolio-release 22ms
