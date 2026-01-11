@@ -135,3 +135,62 @@ The collection "projects" does not exist or is empty. Please check your content 
 11:37:18 [200] / 41ms
 11:50:10 [watch] /src/layouts/BaseLayout.astro?astro&type=style&index=0&lang.css
 11:50:11 [200] / 5ms
+11:53:25 [WARN] [glob-loader] Duplicate id "2025-01-portfolio-release" found in /Users/sskyu/Dev/portfolio/src/content/blog/2025-01-portfolio-release.md. Later items with the same id will overwrite earlier ones.
+11:53:25 [glob-loader] Reloaded data from 2025-01-portfolio-release.md
+11:53:26 [200] / 13ms
+12:09:46 [200] / 8ms
+16:22:46 [200] / 767ms
+22:20:32 [watch] /src/layouts/BaseLayout.astro?astro&type=style&index=0&lang.css
+22:20:34 [200] / 82ms
+22:20:36 [watch] /src/layouts/BaseLayout.astro?astro&type=style&index=0&lang.css
+22:20:36 [200] / 7ms
+22:24:57 Configuration file updated. Restarting...
+22:24:58 [vite] Re-optimizing dependencies because vite config has changed
+22:25:00 [content] Syncing content
+22:25:00 [content] Synced content
+22:25:00 [types] Generated 1.94s
+22:25:00 [vite] Re-optimizing dependencies because lockfile has changed
+22:25:02 Configuration file updated. Restarting...
+22:25:02 [vite] Re-optimizing dependencies because vite config has changed
+22:25:03 [content] Syncing content
+22:25:03 [content] Synced content
+22:25:03 [types] Generated 702ms
+22:25:03 [vite] Re-optimizing dependencies because vite config has changed
+22:25:03 Configuration file updated. Restarting...
+22:25:04 [vite] Re-optimizing dependencies because lockfile has changed
+22:25:04 [content] Syncing content
+22:25:04 [content] Synced content
+22:25:04 [types] Generated 888ms
+22:25:04 [vite] Re-optimizing dependencies because vite config has changed
+22:33:07 [200] / 29ms
+22:33:07 [200] / 7ms
+22:33:53 [200] / 4ms
+22:33:55 [200] / 4ms
+22:34:47 [200] / 4ms
+22:34:47 [200] / 4ms
+22:35:11 [watch] playwright-report/index.html
+22:39:30 [200] / 6ms
+22:39:32 Configuration file updated. Restarting...
+22:39:33 [vite] Re-optimizing dependencies because vite config has changed
+22:39:35 [content] Syncing content
+22:39:35 [content] Synced content
+22:39:35 [types] Generated 2.51s
+22:39:35 [vite] Re-optimizing dependencies because lockfile has changed
+22:39:36 [200] / 33ms
+22:39:42 [200] / 7ms
+22:40:04 Configuration file updated. Restarting...
+22:40:04 [vite] Re-optimizing dependencies because vite config has changed
+22:40:05 [content] Syncing content
+22:40:05 [content] Synced content
+22:40:05 [types] Generated 1.20s
+22:40:05 [vite] Re-optimizing dependencies because vite config has changed
+22:40:26 Configuration file updated. Restarting...
+22:40:27 [ERROR] transport was disconnected, cannot call "fetchModule"
+  Stack trace:
+    at /Users/sskyu/Dev/portfolio/node_modules/vite/dist/node/module-runner.js:548:17
+    [...] See full stack trace in the browser, or rerun with --verbose.
+22:40:27 [vite] Re-optimizing dependencies because lockfile has changed
+22:40:30 [content] Syncing content
+22:40:30 [content] Synced content
+22:40:30 [types] Generated 2.95s
+22:40:30 [vite] Re-optimizing dependencies because vite config has changed
